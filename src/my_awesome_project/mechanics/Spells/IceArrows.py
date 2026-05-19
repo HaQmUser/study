@@ -1,5 +1,5 @@
-from src.mechanics.spell import Spell
-from src.mechanics.Debuffs.Freeze import freeze
+from src.my_awesome_project.mechanics.spell import Spell
+from src.my_awesome_project.mechanics.Debuffs.Freeze import freeze
 
 
 class IceArrows(Spell):

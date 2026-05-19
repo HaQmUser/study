@@ -1,4 +1,4 @@
-from src.mechanics.debuff import Debuff
+from src.my_awesome_project.mechanics.debuff import Debuff
 
 
 class Burn(Debuff):

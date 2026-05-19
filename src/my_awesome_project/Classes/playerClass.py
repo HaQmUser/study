@@ -7,7 +7,6 @@ class Player(ABC):
         self.charname = charname
         self.role = role
         self.hp = hp
-
         self.gun = gun
         self.spells = spell
         self.active_debuffs = []

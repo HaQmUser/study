@@ -1,5 +1,5 @@
-from src.Classes.sorcerer import Sorcerer
-from src.Classes.barbarian import Barbarian
+from src.my_awesome_project.Classes.sorcerer import Sorcerer
+from src.my_awesome_project.Classes.barbarian import Barbarian
 import random
 
 

@@ -1,5 +1,5 @@
-from src.Classes.playerClass import Player
-from src.guns.barbGuns import barbarianGuns
+from src.my_awesome_project.Classes.playerClass import Player
+from src.my_awesome_project.guns.barbGuns import barbarianGuns
 import random
 
 

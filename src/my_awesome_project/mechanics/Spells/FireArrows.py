@@ -1,5 +1,5 @@
-from src.mechanics.spell import Spell
-from src.mechanics.Debuffs.Burn import burn
+from src.my_awesome_project.mechanics.spell import Spell
+from src.my_awesome_project.mechanics.Debuffs.Burn import burn
 
 
 class FireArrows(Spell):

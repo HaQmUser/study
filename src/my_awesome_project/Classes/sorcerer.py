@@ -1,7 +1,9 @@
-from src.Classes.playerClass import Player
-from src.guns.sorcGuns import sorcererGuns
+from src.my_awesome_project.Classes.playerClass import Player
+from src.my_awesome_project.guns.sorcGuns import sorcererGuns
 import random
-from src.mechanics.Spellbooks.SorcererSpellbook import sorcerer_spellbook
+from src.my_awesome_project.mechanics.Spellbooks.SorcererSpellbook import (
+    sorcerer_spellbook,
+)
 
 
 class Sorcerer(Player):
